@@ -9,3 +9,11 @@ img{
 p{
     font-size: 1.2em;
 }
+.familiatexto{
+    font-family:"papyrus" ;
+    font-size: 1.2em;
+    color: ghostwhite;
+}
+footer{
+    background-color: gray;
+}
