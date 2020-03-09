@@ -8,7 +8,8 @@ a{
     color: green;
 }
 img{
-    width: 1900px;
+    height:  720px;
+    width: 640px;
     margin: auto;
     display: block;
 }
@@ -23,4 +24,28 @@ p{
 footer{
     background-color: gray;
     text-align: center;
+}
+.razapitbull{
+    font-family:"papyrus";
+    color: darkgreen;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+.razapitbull1{
+    font-family: cursive;
+    color: darkolivegreen;
+    text-align: justify;
+    font-style: normal;
+}
+.razapitbull2{
+    font-family:"papyrus";
+    color: darkgreen;
+    font-weight: bold;
+    font-style: italic;
+}
+.imagenfondo{
+    background-image: url("img/danger4.jpg");
+    height: 800px;
+    background-attachment: fixed;
 }
